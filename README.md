@@ -1,3 +1,12 @@
+# Laravel aplikacija - odeća (drugi domaći iz Internet tehnologija)
+
+Za potrebe predmeta Internet tehnologije, napravljena Laravel aplikacija za unos, izmenu i brisanje različite odeće i različitih kategorija odeće.
+
+jun 2021.
+Fakultet organizacionih nauka
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
